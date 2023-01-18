@@ -4,3 +4,5 @@ In this project, we intend to prepare a list of courses related to data science 
 
 Each item in this list includes the name of the course, duration and website address of the course provider.
 Additional suggested fields can also be considered if needed.
+
+Please read the [contribution.md](https://github.com/hedalati/Best-Free-Data-Sciense-Cources/blob/main/CONTRIBUTING.md) .
